@@ -1,0 +1,6 @@
+name: pulumi-test
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: vlab-test
