@@ -5,7 +5,7 @@ import pulumi_vsphere as vsphere
 
 ## Data Collection Parameters
 datacenter  = 'pl-dc'
-vmrp        = 'pl-terraform-vms'
+vmrp        = 'pl-vms'
 vm_template = 'packer-ubuntu-2004-2020-10-19T1603138176'
 
 ## VM Parameters
